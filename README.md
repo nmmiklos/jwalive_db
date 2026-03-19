@@ -4,6 +4,12 @@ Egy modern, sötét témájú ASP.NET MVC webalkalmazás, amely a *Jurassic Worl
 
 ---
 
+## Előnézet
+
+![Preview](jwParsed_WebView/wwwroot/src.png)
+
+---
+
 ## Funkciók
 
 * Lények listázása táblázatos formában
@@ -17,12 +23,6 @@ Egy modern, sötét témájú ASP.NET MVC webalkalmazás, amely a *Jurassic Worl
   * Crit
 * Ritkaság szerinti jelölések (Common → Apex → Omega)
 * Gyors és letisztult megjelenítés
-
----
-
-## Előnézet
-
-![Preview](jwParsed_WebView/wwwroot/src.png)
 
 ---
 
