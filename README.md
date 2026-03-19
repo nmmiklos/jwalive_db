@@ -22,7 +22,7 @@ Egy modern, sötét témájú ASP.NET MVC webalkalmazás, amely a *Jurassic Worl
 
 ## Előnézet
 
-![Preview](src.png)
+![Preview](jwParsed_WebView/wwwroot/src.png)
 
 ---
 
